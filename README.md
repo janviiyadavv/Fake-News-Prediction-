@@ -1,6 +1,7 @@
 **Predicting Fake News** 📑🗞️
 
-![I-Newspaper2](https://github.com/janviiyadavv/Fake-News-Prediction-/assets/112768387/8cbb5b1a-5c33-4f12-bc90-0bb94d486606)
+![I-Newspaper2](https://github.com/janviiyadavv/Fake-News-Prediction-/assets/112768387/9de38be1-de6a-4c4a-9045-e826ed15ce8d)
+
 
 
 **Introduction**
