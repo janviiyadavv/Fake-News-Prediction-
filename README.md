@@ -1,5 +1,7 @@
 Predicting Fake News 📑🗞️
-This supervised machine learning approach (logistic regression) uses input data to predict the output with a level of accuracy that is close to 97%. This dataset
 
-Why Is the Project Being Done?
-People cannot distinguish between authentic and fake news when there are numerous news pieces available on social media. In light of this, my algorithm performs 97% accurately in identifying false news from legitimate news.
+**Introduction**
+This supervised machine learning algorithm, called logistic regression, predicts the outcome from the input data with an accuracy of around 97%. A set of data
+
+**Purpose of the Project**
+People struggle to distinguish between authentic and fake news when there are several news pieces available on social media. Based on that, my algorithm performs at 97% accuracy in predicting both fake and true news.
